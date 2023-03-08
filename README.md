@@ -15,8 +15,11 @@ You need following software and versions to use scripts.
 ```
 ## Example
 
-![image-12-600x416](https://user-images.githubusercontent.com/6716206/210381725-6fe6bca2-8cc1-41e4-9cdb-2dc6b2963704.png)
+![2023-01-02_19-22-24](https://user-images.githubusercontent.com/6716206/223789277-ed901e7f-ac57-48ec-a558-9b029560d41b.png)
 
+![2023-01-02_19-23-40](https://user-images.githubusercontent.com/6716206/223789381-46a933e6-4c37-4c02-b98f-8325a1abe878.png)
+![2023-01-02_19-25-30](https://user-images.githubusercontent.com/6716206/223789448-74993739-7218-4095-9297-9133625e5a80.png)
+![2023-01-02_19-27-08](https://user-images.githubusercontent.com/6716206/223789475-64455fe1-3f66-4776-bc80-ab66a7fe27b2.png)
 
 
 ## More details about scripts
