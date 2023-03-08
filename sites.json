@@ -1,0 +1,58 @@
+{
+	"sites": [{
+			"location": "Site-A",
+			"vcenter": "site-a.vcenter.local",
+			"jira": {
+				"project": "AAA",
+				"username": "jira-username",
+				"token": "JIRA-Token",
+				"url": "https://jira.corporate.com"
+			},
+			"slackurl": "Slack-Webhook-URL-for-SiteA-notification-channel"
+		},
+		{
+			"location": "Site-B",
+			"vcenter": "site-b.vcenter.local",
+			"jira": {
+				"project": "BBB",
+				"username": "jira-username",
+				"token": "JIRA-Token",
+				"url": "https://jira.corporate.com"
+			},
+			"slackurl": "Slack-Webhook-URL-for-SiteB-notification-channel"
+		},
+		{
+			"location": "Site-C",
+			"vcenter": "site-c.vcenter.local",
+			"jira": {
+				"project": "CCC",
+				"username": "jira-username",
+				"token": "JIRA-Token",
+				"url": "https://jira.corporate.com"
+			},
+			"slackurl": "Slack-Webhook-URL-for-SiteC-notification-channel"
+		},
+		{
+			"location": "Site-D",
+			"vcenter": "site-d.vcenter.local",
+			"jira": {
+				"project": "DDD",
+				"username": "jira-username",
+				"token": "JIRA-Token",
+				"url": "https://jira.corporate.com"
+			},
+			"slackurl": "Slack-Webhook-URL-for-SiteD-notification-channel"
+		},
+		{
+			"location": "Site-E",
+			"vcenter": "site-e.vcenter.local",
+			"jira": {
+				"project": "EEE",
+				"username": "jira-username",
+				"token": "JIRA-Token",
+				"url": "https://jira.corporate.com"
+			},
+			"slackurl": "Slack-Webhook-URL-for-SiteE-notification-channel"
+		}
+	]
+}
