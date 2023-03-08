@@ -296,7 +296,7 @@ for finding in findings:
              if "data" in responseAffectedJson:
                  getAffectedObject(responseAffectedJson['data']['activeFindings']['findings'], vcenter)
              else:
-                 print("Response Gelmedi", responseAffectedJson)
+                 print("No response retrieved from the query.", responseAffectedJson)
              break
             
             
